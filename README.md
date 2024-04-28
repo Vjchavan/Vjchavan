@@ -1,12 +1,8 @@
-<h4 align="left">Hi there! 👋 I'm Vijay Chavan<br><br>🚀 Software Engineer | 💻 Passionate Coder | 🌱 Lifelong Learner |  🎮 Gamer<br><br>🔭 I’m currently exploring various technologies and frameworks to expand my skill set and stay up-to-date with the latest trends in the software development world.<br><br>💬 Let's connect and geek out over tech! Whether you have questions about a specific programming language, need advice on your coding journey, or just want to chat about the latest tech news, feel free to reach out.<br><br>🚀 Let's collaborate, innovate, and make a difference in the world of technology together!</h4>
+<h1 align="left">Profile</h1>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vjchavan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Vjchavan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vjchavan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h4 align="left">Hi there! 👋 I'm Vijay Chavan<br><br>🚀 Software Engineer | 💻 Passionate Coder | 🌱 Lifelong Learner |  🎮 Gamer<br><br>🔭 I’m currently exploring various technologies and frameworks to expand my skill set and stay up-to-date with the latest trends in the software development world.<br><br>💬 Let's connect and geek out over tech! Whether you have questions about a specific programming language, need advice on your coding journey, or just want to chat about the latest tech news, feel free to reach out.<br><br>🚀 Let's collaborate, innovate, and make a difference in the world of technology together!</h4>
 
 ###
 
